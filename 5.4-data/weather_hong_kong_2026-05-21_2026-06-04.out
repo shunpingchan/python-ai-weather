@@ -1,0 +1,34 @@
+Please enter a location: qwerty
+'qwerty' is NOT a valid location.
+
+Please enter a location: Hong Kong
+'Hong Kong' is a valid location.
+
+Location: Hong Kong, Latitude: 22.3193, Longitude: 114.1694
+
+Please enter number of days: asdfgh
+'asdfgh' is NOT a valid number of days.
+
+Please enter number of days: 14
+'14' is a valid number of days.
+
+Days: 14, Date Range: 2026-05-21 to 2026-06-04
+
+Files saved in 'data' folder
+data/weather_hong_kong_2026-05-21_2026-06-04.png
+data/weather_hong_kong_2026-05-21_2026-06-04.csv
+
+Daytime temperature:
+Maximum: 35.0°C
+Minimum: 29.5°C
+Average: 31.1°C
+
+Nighttime temperature:
+Maximum: 27.6°C
+Minimum: 24.1°C
+Average: 26.1°C
+
+Average temperature:
+Maximum: 29.8°C
+Minimum: 27.2°C
+Average: 28.6°C

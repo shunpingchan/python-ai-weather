@@ -1,0 +1,34 @@
+Please enter a location: qwerty
+'qwerty' is NOT a valid location.
+
+Please enter a location: Paris
+'Paris' is a valid location.
+
+Location: Paris, Latitude: 48.8566, Longitude: 2.3522
+
+Please enter number of days: asdfgh
+'asdfgh' is NOT a valid number of days.
+
+Please enter number of days: 14
+'14' is a valid number of days.
+
+Days: 14, Date Range: 2026-05-21 to 2026-06-04
+
+Files saved in 'data' folder
+data/weather_paris_2026-05-21_2026-06-04.png
+data/weather_paris_2026-05-21_2026-06-04.csv
+
+Daytime temperature:
+Maximum: 34.5°C
+Minimum: 20.5°C
+Average: 28.6°C
+
+Nighttime temperature:
+Maximum: 22.1°C
+Minimum: 10.9°C
+Average: 17.2°C
+
+Average temperature:
+Maximum: 28.3°C
+Minimum: 17.3°C
+Average: 22.9°C

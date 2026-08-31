@@ -1,0 +1,26 @@
+Please enter a location: qwerty
+'qwerty' is NOT a valid location.
+
+Please enter a location: London
+'London' is a valid location.
+
+Location: London, Latitude: 51.5074, Longitude: -0.1278
+
+Please enter number of days: asdfgh
+'asdfgh' is NOT a valid number of days.
+
+Please enter number of days: 92
+'92' is a valid number of days.
+
+Days: 92, Date Range: 2026-05-03 to 2026-08-03
+
+Processed DataFrame.
+Calculated average temperatures.
+Calculated visualisation.
+
+Files saved in 'data' folder:
+data/weather_london_2026-05-03_2026-08-03.png
+data/weather_london_2026-05-03_2026-08-03.csv
+data/weather_london_2026-05-03_2026-08-03.out
+
+Calculated and saved data, visualisation and statistics.
